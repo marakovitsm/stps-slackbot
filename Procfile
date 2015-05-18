@@ -1,1 +1,1 @@
-web: bin/hubot --adapter slack --name pillowbot --alias '.'
+web: bin/hubot --adapter slack --name hubot --alias '.'
