@@ -2,7 +2,7 @@
   "name": "hubot",
   "version": "0.0.0",
   "private": true,
-  "author": "dev@liamca.in",
+  "author": "matthew.marakovits@sparta.org",
   "description": "A simple helpful robot for your Company",
   "dependencies": {
     "hubot": "^2.11.0",
